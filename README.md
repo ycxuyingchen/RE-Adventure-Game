@@ -4,4 +4,11 @@ RE is a 2D platformer adventure game which allows two players share screen. The 
 RE consists of 4 levels, including the tutorial level, Ice Cave, Crystal Land and Planet Core. All 4 levels have different focus, including fighting against enemy AI, going through traps and cooperation between two players.
 
 The game is written in C# using Unity engine, with all artwork created by my colleague Dora Han using Photoshop. 
-![alt text] (Exclir-Scene4.png)
+
+
+![Alien](Exclir-elf.png) 
+![Human](Exclir-human.png)
+![Game Scene](Exclir-Scene3.png)
+![Game Scene](Exclir-Scene4.png)
+
+
